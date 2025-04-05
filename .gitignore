@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# User cache files
+user_cache.json
+user_cache_timestamp.txt
+
+# CSV exports
+*.csv
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
